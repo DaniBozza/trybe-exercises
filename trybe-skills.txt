@@ -4,3 +4,7 @@ O que eu vou aprender na Trybe:
 - Bash
 - Git
 Vamos dominar o Mundo !!!
+Geoguessr
+Front end
+Back end
+C
