@@ -4,3 +4,10 @@ O que eu vou aprender na Trybe:
 - Bash
 - Git
 Vamos dominar o Mundo !!!
+O que eu vou aprender na Trybe:
+
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
